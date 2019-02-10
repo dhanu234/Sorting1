@@ -39,6 +39,7 @@ public class NewSort {
 	      ob.sort(arr);
 	      System.out.println("Sorted array");
 	      ob.printArray(arr);
+	      ob.printArray(arr);
 
 	}
 
